@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Dwaipayan Ray 🎬✈️
+# Hi, I'm Ray 🎬✈️
 ### Director & Ad Filmmaker turned "Vibe Coder"
 
 <p align="center">
@@ -21,16 +21,6 @@ I don't write code for a living—I write code to survive the day. Thanks to AI,
 - 🏢 **Workplace App:** Because studio management shouldn't require 40 different spreadsheets.
 - 💬 **Partner Comms App:** Standard messaging apps didn't have the exact vibe we needed. Fixed it.
 - 🧾 **Reimbursement App:** Built entirely out of spite for manual expense tracking.
-
----
-
-## 🛠️ Production Log (What I'm building)
-
-Instead of listing a bunch of boring code languages, here is the current status of the passion projects keeping my studio and life alive:
-
-* **[🟢 Active] The Studio OS:** My custom workplace app. Currently optimizing it so I never have to look at a manual crew sheet or booking conflict again.
-* **[🟡 Rendering] The Expense Exorcist:** My reimbursement app. It works, but I’m currently tweaking the UI so using it feels less like doing chores and more like playing a video game.
-* **[🔵 In Development] Flight Sim Companion:** A secret side-project to pull real-time flight data for my simulation sessions. Because immersion is everything.
 
 ---
 
