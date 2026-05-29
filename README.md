@@ -18,10 +18,6 @@
 
 I don't write code for a living—I write code to survive the day. Thanks to AI, I went from directing frames to compiling them. I build highly specific, deeply personal apps to streamline my life, my studio, and my relationships.
 
-- 🏢 **Workplace App:** Because studio management shouldn't require 40 different spreadsheets.
-- 💬 **Partner Comms App:** Standard messaging apps didn't have the exact vibe we needed. Fixed it.
-- 🧾 **Reimbursement App:** Built entirely out of spite for manual expense tracking.
-
 ---
 
 ## ⚡ When I'm Not Prompt Engineering...
@@ -32,14 +28,9 @@ I don't write code for a living—I write code to survive the day. Thanks to AI,
 
 ---
 
-## 📊 The Director's Cut (Code Stats)
+## 📊 The Director's Code (Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=dwaipayanray95&show_icons=true&theme=dark&hide_border=true" alt="Dwaipayan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dwaipayanray95&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dwaipayanray95&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="36%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dwaipayanray95&theme=dark&hide_border=true" alt="GitHub Streak" width="50%" />
 </p>
-
----
-<div align="center">
-  <sub>"Git push origin master and pray it doesn't break the reimbursement app."</sub>
-</div>
